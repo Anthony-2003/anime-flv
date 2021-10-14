@@ -6,95 +6,40 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <style>
-        /* Styles for the ad */
-        .ad-section {
-            background-color: white;
-            display: flex;
-            justify-content: space-evenly;
-            width: 100%;
-            border-bottom: 1px solid black;
-        }
-
-        .ad-sm {
-            border: 1px solid black;
-            padding: 1rem;
-            margin: 1rem;
-        }
-
-        .ad-text {
-            width: 70%;
-        }
-
-        .container-sm {
-            width: 30%;
-            display: flex;
-        }
-
-        /* Styles for the header */
-
-        .head {
-            background-color: white;
-            display: flex;
-            justify-content: space-between;
-            border-bottom: 1px solid black;
-        }
-
-        .head-logo{
-            width: 65%;
-        }
-
-        .head-menu{
-            width: 35%;
-            display:flex;
-        }
-
-        .head-item{
-            background-color:lightgreen;
-            padding:1rem;
-            margin:1rem;
-        }
-
-        .menu-item{
-            text-decoration: none;
-            color:black;
-           list-style: none;
-        } 
-
-
-    </style>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300;1,400;1,700&display=swap"
+        rel="stylesheet">
 </head>
-
-<!-- So now, we know that the first div is = 65%
-and the rest of the divs together are = 35%
-so you have to put each element in a div. 
-The first element goes in one div.
-The rest of the elements go in another div.  -->
 
 <body>
     <section class="ad-section">
         <div class="ad-text">
             <h1>¿Ya sigues nuestras Redes Sociales?</h1>
-            <p>Si quieres mantenerte informado de nuestros proximos proyectos, no olvides visitar nuestras redes
-                sociales</p>
+            <p class="ad-paragraph">Si quieres mantenerte informado de nuestros proximos proyectos, no olvides visitar
+                <br> nuestras redes sociales.</p>
         </div>
         <div class="container-sm">
             <div class="ad-sm ad-facebook">
-                <p> Facebook @Anime Army </p>
+                <i class="fab fa-facebook-f icon"></i>
+                <p class="ad-sm-subtitle">@Grupo Anime Army</p>
             </div>
             <div class="ad-sm ad-twitter">
-                <p> Twitter @Anime Army </p>
+                <i class="fab fa-twitter icon"></i>
+                <p class="ad-sm-subtitle">@Anime Army</p>
             </div>
             <div class="ad-sm ad-instagram">
-                <p> Instagram @Anime Army </p>
+                <i class="fab fa-instagram icon"></i>
+                <p class="ad-sm-subtitle">@Anime Army</p>
             </div>
         </div>
     </section>
 
     <header class="head">
         <div class="head-logo">
-            <h2>animeflv</h2>
+            <img src="/assets/img/logo.webp" alt="animeflv">
         </div>
         <div class="head-menu">
             <div class="head-item">
@@ -104,7 +49,7 @@ The rest of the elements go in another div.  -->
                 <li class="menu-item"> Directorio anime </li>
             </div>
             <div class="head-item">
-                <li class="menu-item"><input type="text"> </li>
+                <li class="menu-item"><input type="text" placeholder="    Buscar..." class="menu-item-input"> </li>
             </div>
             <div class="head-item">
                 <li class="menu-item"><button>Login</button> </li>
@@ -391,7 +336,6 @@ The rest of the elements go in another div.  -->
                 </div>
             </div>
         </section>
-
     </main>
 
     <footer>
@@ -408,8 +352,7 @@ The rest of the elements go in another div.  -->
 
     </footer>
 
-
-
+    <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" data-auto-replace-svg="nest"></script>
 </body>
 
 </html>
