@@ -15,7 +15,7 @@
     width: 45%;
 }
 
-.ad-paragraph{
+.ad-paragraph {
     color: #9da1a4;
 }
 
@@ -59,7 +59,6 @@
     background-color: #2F353A;
     display: flex;
     justify-content: space-around;
-    border-bottom: 1px solid black;
 }
 
 .head-logo {
@@ -77,26 +76,96 @@
 }
 
 .head-item {
+    display: flex;
     justify-content: center;
-    align-items: baseline;
+    align-items: center;
     padding: 1rem;
-    margin: 1rem;
+
+}
+
+.menu-link {
+    text-decoration: none;
+    opacity: 0.5;
+}
+
+.head-item>.menu-link:hover {
+    opacity: 1;
+    transition: 0.5s all ease;
+    -webkit-transition: 0.5s all ease;
+    -moz-transition: 0.5s all ease;
+    -ms-transition: 0.5s all ease;
+    -o-transition: 0.5s all ease;
 }
 
 .menu-item {
-    text-decoration: none;
-    color: black;
     list-style: none;
     color: #fff;
 }
 
-.menu-item-input {
-    border: 0;
+.form-search {
+    background: #262A2E;
     border-radius: 20px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
-    height: 2rem;
-    width: 100%;
+    padding-left: 0.5rem;
+}
+
+
+.menu-item-input {
+    background-color: transparent;
+    padding: 0.5rem;
+    border: 0;
+    caret-color: #fff;
+}
+
+.menu-item-input:focus {
+    outline: none;
+}
+
+.menu-item-input::placeholder {
+    color: #fff;
+    opacity: 0.5;
+}
+
+.form-btn {
+    background-color: transparent;
+    border: transparent;
+    height: 100%;
+    padding-right: 0.5rem;
+    cursor: pointer;
+    color: #fff;
+}
+
+.user-btn {
+    padding: 1rem;
+    background-color: #262A2E;
+    border: 0;
+    color: #fff;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+    cursor: pointer;
+}
+
+.user-btn::after {
+    content: "Login";
+}
+
+.item-fb {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    font-size: 1.2rem;
+    background: linear-gradient(to bottom,rgba(0,130,188,1) 0%,rgba(30,91,156,1) 100%);
 }
