@@ -1,115 +1,115 @@
 // One Piece
 
-// <p class="anime-blahblah"> Detective Conan</p>
+Detective Conan 
 
-// <p class="anime-blahblah"> Boruto: Naruto Next Generations</p>
+ Boruto: Naruto Next Generations
 
-// <p class="anime-blahblah"> Furusato Meguri Nippon no Mukashibanashi</p>
+ Furusato Meguri Nippon no Mukashibanashi
 
-// <p class="anime-blahblah"> Dragon Ball Super Latino</p>
+ Dragon Ball Super Latino
 
-// <p class="anime-blahblah"> Pokemon (2019)</p>
+ Pokemon (2019)
 
-// <p class="anime-blahblah"> Dragon Quest: Dai no Daibouken (2020)</p>
+ Dragon Quest: Dai no Daibouken (2020)
 
-// <p class="anime-blahblah"> Strike the Blood IV</p>
+ Strike the Blood IV
 
-// <p class="anime-blahblah"> Shaman King (2021)</p>
+ Shaman King (2021)
 
-// <p class="anime-blahblah"> Scarlet Nexus</p>
+ Scarlet Nexus
 
-// <p class="anime-blahblah"> Tsukipro The Animation 2</p>
+ Tsukipro The Animation 2
 
-// <p class="anime-blahblah"> Shiroi Suna no Aquatope</p>
+ Shiroi Suna no Aquatope
 
-// <p class="anime-blahblah"> Love Live! Superstar!!</p>
+ Love Live! Superstar!!
 
-// <p class="anime-blahblah"> Jahy-sama wa Kujikenai!</p>
+ Jahy-sama wa Kujikenai!
 
-// <p class="anime-blahblah"> Getsuyoubi no Tawawa 2</p>
+ Getsuyoubi no Tawawa 2
 
-// <p class="anime-blahblah"> Ganbare Douki-chan</p>
+ Ganbare Douki-chan
 
 // <pp> Heike Monogatari</pp>
 
-// <p class="anime-blahblah"> Selection Project</p>
+ Selection Project
 
-// <p class="anime-blahblah"> Yakunara Mug Cup mo: Niban Gama</p>
+ Yakunara Mug Cup mo: Niban Gama
 
-// <p class="anime-blahblah"> Isekai Shokudou 2</p>
+ Isekai Shokudou 2
 
-// <p class="anime-blahblah"> Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</p>
+ Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou
 
-// <p class="anime-blahblah"> Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou</p>
+ Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou
 
-// <p class="anime-blahblah"> 86 2nd Season</p>
+ 86 2nd Season
 
-// <p class="anime-blahblah"> Muteking the Dancing Hero</p>
+ Muteking the Dancing Hero
 
-// <p class="anime-blahblah"> Digimon Ghost Game</p>
+ Digimon Ghost Game
 
-// <p class="anime-blahblah"> Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</p>
+ Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
 
-// <p class="anime-blahblah"> Mieruko-chan</p>
+ Mieruko-chan
 
-// <p class="anime-blahblah"> Sankaku Mado no Sotogawa wa Yoru</p>
+ Sankaku Mado no Sotogawa wa Yoru
 
-// <p class="anime-blahblah"> Tsuki to Laika to Nosferatu</p>
+ Tsuki to Laika to Nosferatu
 
-// <p class="anime-blahblah"> Tesla Note</p>
+ Tesla Note
 
-// <p class="anime-blahblah"> Kyuuketsuki Sugu Shinu</p>
+ Kyuuketsuki Sugu Shinu
 
-// <p class="anime-blahblah"> Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei</p>
+ Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei
 
-// <p class="anime-blahblah"> Kyoukai Senki</p>
+ Kyoukai Senki
 
 // <pp> Takt Op. Destiny</pp>
 
-// <p class="anime-blahblah"> Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru</p>
+ Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
 
-// <p class="anime-blahblah"> Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shima</p>
+ Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shima
 
-// <p class="anime-blahblah"> Muv-Luv Alternative</p>
+ Muv-Luv Alternative
 
-// <p class="anime-blahblah"> Puraore! Pride of Orange</p>
+ Puraore! Pride of Orange
 
-// <p class="anime-blahblah"> Komi-san wa, Comyushou desu.</p>
+ Komi-san wa, Comyushou desu.
 
-// <p class="anime-blahblah"> Sakugan</p>
+ Sakugan
 
-// <p class="anime-blahblah"> Platinum End</p>
+ Platinum End
 
-// <p class="anime-blahblah"> Visual Prison</p>
+ Visual Prison
 
-// <p class="anime-blahblah"> Taishou Otome Otogibanashi</p>
+ Taishou Otome Otogibanashi
 
-// <p class="anime-blahblah"> Saihate no Paladin</p>
+ Saihate no Paladin
 
-// <p class="anime-blahblah"> Build Divide: Code Black</p>
+ Build Divide: Code Black
 
-// <p class="anime-blahblah"> Senpai ga Uzai Kouhai no Hanashi</p>
+ Senpai ga Uzai Kouhai no Hanashi
 
-// <p class="anime-blahblah"> World Trigger 3rd Season</p>
+ World Trigger 3rd Season
 
-// <p class="anime-blahblah"> Shikizakura</p>
+ Shikizakura
 
-// <p class="anime-blahblah"> Kimetsu no Yaiba: Mugen Ressha-hen Arc TV</p>
+ Kimetsu no Yaiba: Mugen Ressha-hen Arc TV
 
-// <p class="anime-blahblah"> Gyakuten Sekai no Denchi Shoujo</p>
+ Gyakuten Sekai no Denchi Shoujo
 
-// <p class="anime-blahblah"> Kaginado</p>
+ Kaginado
 
-// <p class="anime-blahblah"> Deep Insanity: The Lost Child</p>
+ Deep Insanity: The Lost Child
 
-// <p class="anime-blahblah"> Ousama Ranking</p>
+ Ousama Ranking
 
-// <p class="anime-blahblah"> Lupin III: Part 6</p>
+ Lupin III: Part 6
 
 
 // // We have somethings that we need to remove. 
 // // We have to remove the words .
-// // We have to remove the text <p class="anime-blahblah">
-// // It might be different for </p>windows, but for mac
+// // We have to remove the te
+// // It might be different for windows, but for mac
 // // if i highlight one element, and then press control + shift + l
 // // then all the elements that are similar to it will also get highlighted.

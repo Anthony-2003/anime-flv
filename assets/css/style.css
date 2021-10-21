@@ -3,6 +3,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.body {
+    background-image: url(/assets/img/bg.webp);
+}
+
 .ad-section {
     background-color: #ffff;
     display: flex;
@@ -167,91 +171,153 @@
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
     font-size: 1.2rem;
-    background: linear-gradient(to bottom,rgba(0,130,188,1) 0%,rgba(30,91,156,1) 100%);
+    background: linear-gradient(to bottom, rgba(0, 130, 188, 1) 0%, rgba(30, 91, 156, 1) 100%);
 }
 
 /* main section below */
 
 .main-container {
     display: flex;
-    background-color: #3B5999;
-    padding:1rem;
-    margin:1rem;
-    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+
 }
 
 /* main left section below */
 
-.main-left-section{
-    width: 30%;
-    background-color: blueviolet;
-    padding:1rem;
-    margin:1rem;
-    
+.main-left-section {
+    padding: 1rem;
+    margin: 1rem;
+    width: 16%;
 }
-
-.fb-ad-container{
-    background-color:green;
-}   
 
 .fb-ad {
-    background-color:grey;
-    padding:0.5rem;
+    width: 100%;
 }
 
-.ad{
-    background-color:green;
+.ad {
+    width: 100%;
 }
 
 .ab-container {
-    background-color:red;
-    margin:1rem;
-    
+    background-color: #fff;
 }
 
 .ab-title {
-  display:flex;
-  justify-content:  space-between; 
-  align-items: center;
-  padding:1rem; 
-} 
-
-.ab-single-box{
-    background-color:brown;
-    margin-bottom:1rem;
-    padding:1rem;
-    display:flex;
-    align-items:center;
+    display: flex;
     justify-content: space-between;
-}
-
-.ab-icon-name{
-    display:flex;
-    align-items:center;
+    align-items: center;
+    padding: 1rem;
     font-size: 1rem;
+    border-bottom: 1px solid #f3f3f3;
 }
 
-.ab-tag{
-    background-color:#01bcf3;
+.icon-title{
+    color: #ff7e00;
+}
+
+.ab-single-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+}
+
+.ab-icon-name {
+    display: flex;
+    align-items: center;
+    font-size: .8rem;
+}
+
+.ab-tag {
+    background-color: #01bcf3;
     color: #fff;
-    padding:0.5rem;
-    width:3rem;
+    padding: 0.1rem 1rem;
+    width: 3rem;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    font-size: .8rem;
+}
+
+.ab-anime-name {
+    padding-left: 1rem;
+    font-weight: 100;
+}
+
+/* main right section below  */
+
+.main-right-section {
+    width: 70%;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.anime-section-titles {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.last-episodes-title{
+    color: #3b4248;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.anime-today {
+    background-color: #01bcf3;
+    padding: 0.5rem;
+    width:5rem;
+    text-align:center;
+    text-transform: uppercase;
+    color:white;
+    font-weight:800;
     border-radius:1rem;
+    font-size: 1em;
     -webkit-border-radius:1rem;
     -moz-border-radius:1rem;
     -ms-border-radius:1rem;
     -o-border-radius:1rem;
 }
 
-.ab-anime-name{
-    padding-left: 1rem;
+.animes-column{
+    display: flex;
+    justify-content: space-around;
 }
 
-/* main right section below  */
+.animes {
+    position: relative;
+    
+}
 
-.main-right-section{
-    width: 70%;
-    background-color: #9da1a4;
-    padding:1rem;
-    margin:1rem;
+.anime-img{
+    filter: drop-shadow(8px 8px 10px gray);
+    -webkit-filter: drop-shadow(8px 8px 10px gray);
+}
+
+.anime-information{
+    position: relative;
+    margin-top:-5.5rem;
+    margin-left:0.5rem;
+}
+
+.single-episode{
+    background-color:orange;
+    color:white;
+    padding:0.3rem;
+    width:5rem;
+    text-align:center;
+    font-weight:800;
+    margin-bottom:-1rem;
+    border-radius:1rem;
+}
+
+.single-title {
+    color:white;
+    font-size:1.3rem;
+    font-weight:900;
+    text-shadow: 0px 0px 1000px #01bcf3;
 }
