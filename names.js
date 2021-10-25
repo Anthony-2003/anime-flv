@@ -1,4 +1,4 @@
-const txt = document.getElementsByClassName("Title");
+const txt = document.getElementsByClassName("fa-play-circle");
 for (let i = 0; i < txt.length; i++) {
   const text = txt[i].innerText;
   console.log(text);
